@@ -1,0 +1,14 @@
+{
+  "name": "hungry-cache",
+  "version": "1.0.0",
+  "description": "Custom cache layer for angular resource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Blank <zach@hungryinc.com>",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "1.4.7"
+  }
+}
